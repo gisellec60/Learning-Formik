@@ -57,5 +57,4 @@ function YoutubeForm() {
 }
 
 export default YoutubeForm
-e`e
-`
+
